@@ -1,0 +1,19 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    width: 1120px;
+    margin: auto;
+}
+
+
+.box{
+    width: 1120px;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+
+
+.btn{
+    background: red;
+}
